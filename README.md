@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Misael Elias
 
-<!--
-**Misael-Dev777/Misael-Dev777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Estudante de Ciência da Computação  
+### 🐍 Aprendendo Python e começando na área de IA  
+### 💡 Construindo projetos práticos para desenvolver habilidades reais
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que estou aprendendo
+- **Python (básico → intermediário)**
+- Lógica de programação
+- Git e GitHub
+- Fundamentos de IA e automações simples  
+
+---
+
+## 📁 Projetos
+
+### 🔹 Organizador Automático de Arquivos  
+Organiza imagens, vídeos, documentos e outros tipos de arquivo automaticamente.  
+➡️ *Feito com Python puro, usando lógica e manipulação de arquivos.*
+
+*(Novos projetos em breve!)*
+
+---
+
+## 📫 Como me encontrar
+
+- **LinkedIn:** https://www.linkedin.com/in/misael-elias
+- **E-mail:** Misael.elias02018@gmail.com
