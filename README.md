@@ -16,9 +16,17 @@
 
 ## 📁 Projetos
 
-### 🔹 Organizador Automático de Arquivos  
-Organiza imagens, vídeos, documentos e outros tipos de arquivo automaticamente.  
-➡️ *Feito com Python puro, usando lógica e manipulação de arquivos.*
+### 🎬 Recomendador Inteligente de Filmes — IA Baseada em Regras
+Um sistema que recomenda filmes conforme o gênero escolhido, usando uma arquitetura inteligente baseada em regras (rule-based).  
+🔗 **Repositório:** https://github.com/Misael-Dev777/recomendador-de-filmes  
+🧠 Permite praticar decisão lógica, estruturação de dados e simula o funcionamento básico de sistemas de recomendação.
+
+---
+
+### 📂 Organizador Automático de Arquivos
+Programa que organiza automaticamente arquivos de uma pasta, separando em categorias como imagens, vídeos, documentos e outros.  
+🔗 **Repositório:** https://github.com/Misael-Dev777/organizador-de-arquivos  
+⚙️ Desenvolvido em Python puro, utilizando manipulação de arquivos, loops e estruturas condicionais.
 
 *(Novos projetos em breve!)*
 
